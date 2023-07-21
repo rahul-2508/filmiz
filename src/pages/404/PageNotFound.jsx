@@ -15,4 +15,4 @@ const PageNotFound = () => {
     );
 };
 
-export default PageNo
+export default PageNotFound;
