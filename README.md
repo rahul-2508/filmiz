@@ -1,3 +1,4 @@
+# Url of the website :- https://filmiz.vercel.app/
 # Filmiz - Movies and TV-Shows
 ###### •	Filmiz: A dynamic and responsive movie and TV show recommendation website.
 ###### •	Technology: Built using React with hooks, props, and state management.
